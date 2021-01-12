@@ -10,7 +10,7 @@ For Creational Pattern, I used Singleton Pattern. It is mostly used in multi-thr
 
 For Structural Pattern, I utilized Composite Pattern. One usage of Composite Pattern is when the responsibilities are needed to be added dynamically to the individual objects without affecting other objects... where the responsibility of objects may vary from time to time. It can be seen in the Add button. As you add objects, it doesn't affect other rows or other objects.
 
-For Behavioral Pattern, I used Memento Pattern. These are mostly used in Undo and Redo operations in most software and also used in database transactions. The Stock Management System that I created has a database in SQL and Undo and Redo operations are evident in Edit and Cancel buttons in both Sales and Inventory. In Edit, you redo and in Delete, you undo.
+For Behavioral Pattern, I used Memento Pattern. These are mostly used in Undo and Redo operations in most software and also used in database transactions. The Stock Management System that I created has a database in SQL and Undo and Redo operations are evident in Edit and Cancel buttons in both Sales and Inventory. In Edit, you redo and in Cancel, you undo.
 
 
 -Using Test-Driven Development (TDD)-
