@@ -8,7 +8,7 @@ Since I was young, I am interested in anything business-related. I was born in a
 -Java Design Patterns-
 For Creational Pattern, I used Singleton Pattern. It is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings, etc. In my code, there is import java.util.logging.Logger; and you can see that I use logging after every catch statement. That is the class used to log application messages in Java Logging API. Its level is SEVERE and null since no information could be obtained. 
 
-For Structural Pattern, I used Composite Pattern. One usage of Composite Pattern is when the responsibilities are needed to be added dynamically to the individual objects without affecting other objects... where the responsibility of objects may vary from time to time. It can be seen in the Add button. As you add objects, it doesn't affect other rows or other objects.
+For Structural Pattern, I utilized Composite Pattern. One usage of Composite Pattern is when the responsibilities are needed to be added dynamically to the individual objects without affecting other objects... where the responsibility of objects may vary from time to time. It can be seen in the Add button. As you add objects, it doesn't affect other rows or other objects.
 
 For Behavioral Pattern, I used Memento Pattern. These are mostly used in Undo and Redo operations in most software and also used in database transactions. The Stock Management System that I created has a database in SQL and Undo and Redo operations are evident in Edit and Cancel buttons in both Sales and Inventory. In Edit, you redo and in Delete, you undo.
 
